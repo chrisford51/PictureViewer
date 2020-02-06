@@ -1,4 +1,4 @@
-This game was created to complete the following tasks:
+This app was created to complete the following tasks:
 - Creating a new project
 - Test (debug) an application
 - Add basic controls like check boxes and buttons to a form
